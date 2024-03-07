@@ -33,6 +33,8 @@ Enfin, lancer le dashboard en entrant la commande ```shiny::runApp()``` dans le 
 
 Alternativement, vous pouvez aller dans ```File > Open Project```, puis ouvrir le fichier ```R_dataviz_Project.Rproj```. Puis lancer ```shiny::runApp()```.
 
+L'application du projet devrait alors se lancer dans Rstudio, mais vous pouvez aussi y accéder sur un navigateur à ```localhost:6742```.
+
 ### 1.2 Les données
 
 Au lancement de l'application, on voit 3 graphiques.
