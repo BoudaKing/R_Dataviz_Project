@@ -18,7 +18,7 @@ library(ggthemes)
 
 ##GLOBAL
 
-##Lecture de communes
+##Lecture des communes
 #(pour la geoloc)
 communes_data <- read_csv("archive/communes_departement_region.csv")
 communes_data <- select(communes_data, c("nom_commune_complet","latitude","longitude"))
