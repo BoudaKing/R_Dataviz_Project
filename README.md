@@ -2,7 +2,6 @@
 # Le Tour de France en Chiffres
 
 ## Noureddine BOUDALI
-## Léo LASNIER
 
 ## Sommaire
 1. User Guide
