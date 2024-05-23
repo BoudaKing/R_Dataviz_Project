@@ -22,7 +22,7 @@ Pour pouvoir géolocaliser les départs et arrivées d'étapes, on a également 
 ### 1.1 Déploiement
 
 Pour déployer le projet, il faut d'abord le cloner sur la machine:
-```git clone git@github.com:appollo30/R_Dataviz_Project.git```
+```git clone git@github.com:BoudaKing/R_Dataviz_Project.git```
 
 Puis ouvrir le fichier ```app.R``` dans RStudio.
 
